@@ -2,7 +2,7 @@
 #include <iomanip>
 #include "cmath"
 using namespace std;
-
+//рш
 //helow
 class Ustanova 
 {

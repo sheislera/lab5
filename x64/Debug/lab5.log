@@ -1,0 +1,16 @@
+﻿  lab5.cpp
+D:\унік\ООІ\lab5\lab5\sho.h(15,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\sho.h(16,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\sho.h(17,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\sho.h(18,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\sho.h(53,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\sho.h(54,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\sho.h(59,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\sho.h(60,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\унік\ООІ\lab5\lab5\lab5.cpp(13,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\унік\ООІ\lab5\lab5\lab5.cpp(14,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\унік\ООІ\lab5\lab5\lab5.cpp(15,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\унік\ООІ\lab5\lab5\lab5.cpp(17,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\унік\ООІ\lab5\lab5\lab5.cpp(18,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\унік\ООІ\lab5\lab5\lab5.cpp(19,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  lab5.vcxproj -> D:\унік\ООІ\lab5\lab5\x64\Debug\lab5.exe
